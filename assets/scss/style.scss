@@ -8,9 +8,15 @@
 @import './header.scss';
 @import './nav-produtos.scss';
 @import './banners-promocionais-estaticos.scss';
+@import './produtos.scss';
+@import './footer.scss';
+@import './responsive.scss';
 
 //Framework - Bootstrap
 @import './bootstrap.scss';
+
+//Components Bootstrap
+@import './breadcrumb.scss';
 
 //Config
 @import './config.scss';
